@@ -9,7 +9,7 @@ public class Main {
         System.out.println(n);
 
         if(n < 0) {
-            System.out.println("음수입니다");
+            System.out.println("minus");
         }
         
     }
