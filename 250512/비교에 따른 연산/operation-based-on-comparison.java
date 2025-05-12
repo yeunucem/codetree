@@ -14,7 +14,7 @@ public class Main {
 
         } else 
 
-         System.out.println(b%a);
+         System.out.println(a % b);
 
         
         
