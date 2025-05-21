@@ -5,10 +5,11 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
-        System.out.print(n);
-        System.out.print(" "+ n*2);
-        System.out.print(" "+ n*3);
-        System.out.print(" "+ n*4);
-        System.out.print(" "+ n*5);
+        for(int i = 1; i<6; i++){
+            System.out.print(n*i + " ");
+        }
+
+       
+       
     }
 }
