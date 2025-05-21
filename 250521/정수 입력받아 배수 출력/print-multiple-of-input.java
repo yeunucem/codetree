@@ -6,9 +6,9 @@ public class Main {
         int n = sc.nextInt();
 
         System.out.print(n);
-        System.out.print(n*2);
-        System.out.print(n*3);
-        System.out.print(n*4);
-        System.out.print(n*5);
+        System.out.print(" "+ n*2);
+        System.out.print(" "+ n*3);
+        System.out.print(" "+ n*4);
+        System.out.print(" "+ n*5);
     }
 }
